@@ -20,7 +20,9 @@ Key Available Data:
 ### Business Questions Analysis
 #### User Funnel
 ##### Observations:
-- 26.4% of users who downloaded the app completed and paid for at least 1 ride. 
+- 26.4% of users who downloaded the app completed and paid for at least 1 ride.
+ 
+- Largest losses of users occured at sign-up, ride requested
 - Largest losses of users on different steps of the funnel:
 	- signed up: 
 		- 25.35% loss out of downloads (74.65% of users signed up after the download);
