@@ -5,8 +5,11 @@ Power BI | SQL | Google sheets
 
 ### Project Background
 Metrocar is a ride-hailing platform (similar to Uber/Bolt), which allows users to download an app, register, request a ride, complete the trip, make payment, and leave a review.
+
 Objective of Management: To explore why a significant number of users do not complete their first trip, optimize user experience, and improve conversion rates at every stage of the process.
+
 Task: To conduct a comprehensive analysis of the user funnel to determine where and why users drop off and to propose specific actions for product improvement, marketing optimization, and customer experience enhancement.
+
 Key Available Data:
 - App downloads, including platform and user age group;
 - New user registrations linked to download sessions;
