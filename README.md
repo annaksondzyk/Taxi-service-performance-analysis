@@ -55,10 +55,10 @@ Key Available Data:
 
 
 Out of 385k requested rides:
-224k rides (58%) were completed
-162k rides (42%) were cancelled, including 137k (36%) not_accepted/cancelled and 25k (6%) accepted/cancelled.
+- 224k rides (58%) were completed
+- 162k rides (42%) were cancelled, including 137k (36%) not_accepted/cancelled and 25k (6%) accepted/cancelled.
 
-	If we analyse the chart above and the Users Funnel simultaneously, we can assume that the 25k of accepted/cancelled rides resulted in approximately 6k users (25.6% of downloads) not transferred from ‘ride accepted’ to ‘ride completed’ step of the funnel. These users were lost after first cancellation after acceptance.
+If we analyse the chart above and the Users Funnel simultaneously, we can assume that the 25k of accepted/cancelled rides resulted in approximately 6k users (25.6% of downloads) not transferred from ‘ride accepted’ to ‘ride completed’ step of the funnel. These users were lost after first cancellation after acceptance.
 
 	- Distribution of cancellations on a monthly, daily, hourly basis
 		- Rides cancelled/rides requested ratio has been steadily decreasing monthly, from 94% cancellations in January 2021, to 27% cancellations in January 2022 and 4% cancellations in March 2022. 
