@@ -60,27 +60,27 @@ Out of 385k requested rides:
 
 If we analyse the chart above and the Users Funnel simultaneously, we can assume that the 25k of accepted/cancelled rides resulted in approximately 6k users (25.6% of downloads) not transferred from ‘ride accepted’ to ‘ride completed’ step of the funnel. These users were lost after first cancellation after acceptance.
 
-	- Distribution of cancellations on a monthly, daily, hourly basis
-		- Rides cancelled/rides requested ratio has been steadily decreasing monthly, from 94% cancellations in January 2021, to 27% cancellations in January 2022 and 4% cancellations in March 2022. 
+- Distribution of cancellations on a monthly, daily, hourly basis
+- Rides cancelled/rides requested ratio has been steadily decreasing monthly, from 94% cancellations in January 2021, to 27% cancellations in January 2022 and 4% cancellations in March 2022. 
 
 
 
 
 
-		- Rides cancellations were evenly distributed across weekdays with around 23k cancellations on each day of the week.
+- Rides cancellations were evenly distributed across weekdays with around 23k cancellations on each day of the week.
 
 
 
-		- Rides cancellations dynamics during the hours of the day were in line with ride requests and seem reasonable considering rush hours.
+- Rides cancellations dynamics during the hours of the day were in line with ride requests and seem reasonable considering rush hours.
 
 
 
 
-	- Distribution of cancellations based on the waiting time
-		- Not_accepted/cancelled rides: The cancellations were made within a range of 2-20 minutes after the ride request. The average waiting time was 11.03 minutes. The number of cancelled rides was almost evenly distributed across the waiting time. 
+- Distribution of cancellations based on the waiting time
+- Not_accepted/cancelled rides: The cancellations were made within a range of 2-20 minutes after the ride request. The average waiting time was 11.03 minutes. The number of cancelled rides was almost evenly distributed across the waiting time. 
 
 
-		- Accepted/cancelled: The cancellations were made within a range of 2-10 minutes after the ride acceptance. The average waiting time was 5.96 minutes. The number of cancelled rides was also almost evenly distributed across the waiting time.
+- Accepted/cancelled: The cancellations were made within a range of 2-10 minutes after the ride acceptance. The average waiting time was 5.96 minutes. The number of cancelled rides was also almost evenly distributed across the waiting time.
 
 
 
