@@ -56,7 +56,9 @@ Additional analysis needed with respect to who initiated cancellations: drivers 
 
 ###### Distribution of cancellations on a monthly, daily, hourly basis
 Rides cancelled/rides requested ratio has been steadily decreasing monthly, from 94% cancellations in January 2021, to 27% cancellations in January 2022 and 4% cancellations in March 2022. 
+
 <img width="548" height="341" alt="image" src="https://github.com/user-attachments/assets/91be7233-8a12-4ffa-8d3a-78ffe744cf44" />
+
 <img width="425" height="300" alt="image" src="https://github.com/user-attachments/assets/f34203b2-24f9-4123-9afc-9f464f5ce765" />
 
 Rides cancellations were evenly distributed across weekdays with around 23k cancellations on each day of the week.
