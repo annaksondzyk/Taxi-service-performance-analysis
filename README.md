@@ -29,10 +29,7 @@ Key Available Data:
 	- ride request - almost 30% of users which signed up never made a ride request;
 	- ride completion - almost 50% of users never completed their first accepted ride.
 <img width="470" height="279" alt="image" src="https://github.com/user-attachments/assets/6790ffce-b989-4700-ae53-072c3e64273c" />
-
-
-
-   
+ 
 #### Rides Funnel
 ##### Observations:
 - 55.16% of the requested rides were completed and paid for;
@@ -45,7 +42,13 @@ Key Available Data:
 	- ride paid - the number of rides paid is lower than the number of the rides completed for 11,024 rides (4.93%), this variance should be investigated in more detail to ensure that the payment was collected.
 <img width="501" height="270" alt="image" src="https://github.com/user-attachments/assets/e3ebf260-6242-481a-b684-8fcd8985cc04" />
 
-##### Calc:
+##### Cancellations:
+We had a closer look at ride cancellations, which affected the ‘ride accepted’ and ‘ride completed’ Rides Funnel stages. 
+Out of 385k requested rides:
+- 224k rides (58%) were completed
+- 162k rides (42%) were cancelled, including 137k (36%) not_accepted/cancelled and 25k (6%) accepted/cancelled.
+
+25k of accepted/cancelled rides resulted in approximately 6k users not transferred from ‘ride accepted’ to ‘ride completed’ step of the funnel (see User Funnel). These users were lost after first cancellation after acceptance.
 
 
 
