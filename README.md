@@ -20,30 +20,31 @@ Key Available Data:
 ### Business Questions Analysis
 #### User Funnel
 ##### Observations:
-- 26.4% of users who downloaded the app completed and paid for at least 1 ride.
+- 26.4% of users who downloaded the app completed and paid for at least 1 ride;
+- 30% of users which completed at least 1 ride never left a review.
 <img width="652" height="298" alt="image" src="https://github.com/user-attachments/assets/7d9926a8-d357-4b61-9486-5dfc032c0e06" />
 
 - Largest losses of users occured at:
 	- signing up - 25% of users which downloaded the app never signed up;
 	- ride request - almost 30% of users which signed up never made a ride request;
-	- ride completion - almost 50% of users never completed their first ride after acceptance.
+	- ride completion - almost 50% of users never completed their first accepted ride.
 <img width="645" height="305" alt="image" src="https://github.com/user-attachments/assets/bdf6817c-fca9-4251-b558-153883d1fb06" />
 
 
    
-#### Drop-off Points
+#### Rides Funnel
 ##### Observations:
-- 55.16% of the requested rides were completed and paid for. 
-- Largest losses on different steps of the funnel:
-	- ride accepted:
-		- 35.57% cancellations out of rides requested (64.43% of rides were accepted); 
-	- ride completed: 
-		- 41.98% cancellations out of rides requested including 35.57% after ride request (hereinafter - not_accepted/cancelled) and 6.41% after ride request and acceptance (hereinafter - accepted/cancelled). 
-		- 9.96% cancellations out of rides accepted (90.04% of accepted rides were completed)
-	- ride paid: 
-		- We noticed that the number of rides paid is lower than the number of the rides completed for 11,024 rides (4.93%), this variance should be investigated in more detail to ensure that the payment was collected;
-	- ride reviewed: 
-		- 26.53% of rides paid were not reviewed (73.47% of rides paid were reviewed).
+- 55.16% of the requested rides were completed and paid for;
+- 26.53% rides were not reviewed.
+<img width="501" height="270" alt="image" src="https://github.com/user-attachments/assets/dc07f161-2cad-49f5-b364-e9be37aa37fd" />
+ 
+- Largest losses on different steps of the funnel occured at:
+	- rides accepted - 35.57% out of requested rides were not accepted;
+	- rides completed - almost 10% of accepted rides were not completed;
+	- ride paid - the number of rides paid is lower than the number of the rides completed for 11,024 rides (4.93%), this variance should be investigated in more detail to ensure that the payment was collected.
+<img width="501" height="270" alt="image" src="https://github.com/user-attachments/assets/e3ebf260-6242-481a-b684-8fcd8985cc04" />
+
+##### Calc:
 
 
 
