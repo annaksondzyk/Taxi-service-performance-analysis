@@ -17,6 +17,12 @@ Key Available Data:
 - Transactions, including payment amounts and statuses;
 - User reviews, including texts and ratings.
 
+Links
+- [Power BI dashboard](https://github.com/annaksondzyk/Taxi-service-performance-analysis/blob/main/Metrocar_Dashboard.pbix) (download required)
+- [Power BI supporting visualizations](https://github.com/annaksondzyk/Taxi-service-performance-analysis/blob/main/Metrocar_Supporting.pbix) (download required)
+- [SQL requests](https://github.com/annaksondzyk/Taxi-service-performance-analysis/blob/main/Metrocar_SQL_requests.pdf)
+- [Google Sheets supporting calculations](https://docs.google.com/spreadsheets/d/1d6IN4obNB2mFQSR2cuzlULRb1wLtEmxc41317DafhOA/edit?gid=942193489#gid=942193489)
+
 ### Business Questions Analysis
 #### User Funnel
 ##### Observations:
@@ -59,8 +65,6 @@ Rides cancelled/rides requested ratio has been steadily decreasing monthly, from
 
 <img width="548" height="341" alt="image" src="https://github.com/user-attachments/assets/91be7233-8a12-4ffa-8d3a-78ffe744cf44" />
 
-<img width="425" height="300" alt="image" src="https://github.com/user-attachments/assets/f34203b2-24f9-4123-9afc-9f464f5ce765" />
-
 Rides cancellations were evenly distributed across weekdays with around 23k cancellations on each day of the week.
 <img width="655" height="342" alt="image" src="https://github.com/user-attachments/assets/7a503200-0590-4b80-84cd-723f45d4106b" />
 
@@ -102,23 +106,17 @@ The Unknown category includes both users who did not sign up and those who did n
 #### Other observations - Rating
 ##### Observations:
 - 29.74% of the rides were rated at ‘1’, which is the lowest rating. About 50% of rides were rated at ‘4’ and ‘5’ (25.33% and 25.13% respectively). Other categories amounted to 20% of the rides together.
-![Uploading image.png…]()
-
+<img width="602" height="356" alt="image" src="https://github.com/user-attachments/assets/febc2103-7de8-4b29-8cf7-3d51b889d266" />
 
 - Average rating by driver amounted to 3.08. We identified that the average ride rating for the majority of drivers was in a bucket of ‘>3 and <=4’: 47.06%. Second biggest bucket was ‘>2 and <=3’: 44.95%. Other buckets amounted to about 8% together.
-
-
-
-
+<img width="549" height="335" alt="image" src="https://github.com/user-attachments/assets/bed56992-1e74-43ae-9907-3333a494f20e" />
 
 ### Recommendations
 #### General
 We observed a significant decrease in revenue starting from January 2022, herewith the quantity of rides requested has decreased in a similar manner, price per ride being stable throughout the whole period of analysis. 
 Further actions should be taken as to identify the potential causes of such decrease. We suggest to initially focus on any major changes in the Company’s policies and procedures introduced starting from 2022 and any external changes (eg. new players on the market, legislation etc.), followed by deeper analysis, if needed.
 
-
-
-
+<img width="773" height="500" alt="image" src="https://github.com/user-attachments/assets/b57f78fd-b13d-415e-be0b-72086b498d54" />
 
 #### Users Funnel
 We suggest to perform an additional analysis and further decide on the action plan:
@@ -153,5 +151,5 @@ A separate analysis needed for not_accepted/cancelled and accepted/cancelled rid
 - We noticed that the second place by revenue was attributed to an Unknown age group - 29.47%. An additional investigation into the matter is required to understand the reasons behind users not providing information on their age and what can be done to decrease the % of users in the Unknown category.
 - The most significant age group of users is currently 35-44. An marketing analysis would be beneficial on how to target other groups.
 
-
 ### Annex 1. Dashboard
+<img width="1328" height="742" alt="image" src="https://github.com/user-attachments/assets/efa2e85f-3723-495d-8eaa-0ed487669fa6" />
