@@ -28,7 +28,8 @@ Key Available Data:
 	- signing up - 25% of users which downloaded the app never signed up;
 	- ride request - almost 30% of users which signed up never made a ride request;
 	- ride completion - almost 50% of users never completed their first accepted ride.
-<img width="645" height="305" alt="image" src="https://github.com/user-attachments/assets/bdf6817c-fca9-4251-b558-153883d1fb06" />
+<img width="470" height="279" alt="image" src="https://github.com/user-attachments/assets/6790ffce-b989-4700-ae53-072c3e64273c" />
+
 
 
    
