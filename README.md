@@ -49,6 +49,7 @@ We had a closer look at ride cancellations, which affected the ‘ride accepted�
 Out of 385k requested rides:
 - 224k rides (58%) were completed
 - 162k rides (42%) were cancelled, including 137k (36%) not_accepted/cancelled and 25k (6%) accepted/cancelled.
+<img width="575" height="243" alt="image" src="https://github.com/user-attachments/assets/b1234f3f-15f4-46fc-907c-af578aa1e355" />
 
 25k of accepted/cancelled rides resulted in approximately 6k users not transferred from ‘ride accepted’ to ‘ride completed’ step of the funnel (see User Funnel). These users were lost after first cancellation after acceptance.
 Additional analysis needed with respect to who initiated cancellations: drivers or users, if such information is available.
@@ -119,7 +120,7 @@ The Unknown category includes both users who did not sign up and those who did n
 
 
 ### Recommendations
-##### General
+#### General
 We observed a significant decrease in revenue starting from January 2022, herewith the quantity of rides requested has decreased in a similar manner, price per ride being stable throughout the whole period of analysis. 
 Further actions should be taken as to identify the potential causes of such decrease. We suggest to initially focus on any major changes in the Company’s policies and procedures introduced starting from 2022 and any external changes (eg. new players on the market, legislation etc.), followed by deeper analysis, if needed.
 
@@ -127,7 +128,7 @@ Further actions should be taken as to identify the potential causes of such decr
 
 
 
-##### Users Funnel
+#### Users Funnel
 We suggest to perform an additional analysis and further decide on the action plan:
 - signed up: 
 	- review the user experience during the sign up procedure, identify the potential drawbacks (eg. time consuming or inconvenient sign up)
@@ -142,21 +143,21 @@ We suggest to perform an additional analysis and further decide on the action pl
 	- review the user experience during the rating and review procedure, identify the potential drawbacks
 	- review the current marketing initiatives for rating and consider update
 
-##### Rides Funnel
+#### Rides Funnel
 With respect to the rides completed but seemingly not paid for, identify the substance of the issue, review the payment process, introduce safeguards against such situations in the future (if needed).
 see Cancellations below.
 
-##### Cancellations
+#### Cancellations
 A separate analysis needed for not_accepted/cancelled and accepted/cancelled rides is needed, initiated by drivers and users. The main issues leading to cancellation should be investigated.
 - Analyse (if available) or introduce reviews from users/drivers upon cancellation.
 - Identify the most common concerns (eg. waiting time until acceptance, distance to driver, long time upon the drivers arrival etc.) and plan the next steps accordingly.
 - Benchmark the key metrics to the main competitors (eg. waiting time until acceptance, drivers time of arrival etc).
 
-##### Platforms
+#### Platforms
 - The biggest platform in all respects is ios (revenue, number of users, number of rides). It also has the highest conversion rate by users and second highest by number of rides. However, the difference in conversion across the platforms is rather insignificant. If the plan is to boost the largest platform, the budget should be channelled to ios.
 - Other platforms as it was mentioned above have similar conversion rates. Some of the budget can be channelled to these platforms.
 
-##### Age groups
+#### Age groups
 - We noticed that the second place by revenue was attributed to an Unknown age group - 29.47%. An additional investigation into the matter is required to understand the reasons behind users not providing information on their age and what can be done to decrease the % of users in the Unknown category.
 - The most significant age group of users is currently 35-44. An marketing analysis would be beneficial on how to target other groups.
 
