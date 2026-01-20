@@ -24,9 +24,9 @@ Key Available Data:
 <img width="652" height="298" alt="image" src="https://github.com/user-attachments/assets/7d9926a8-d357-4b61-9486-5dfc032c0e06" />
 
 - Largest losses of users occured at:
-	- ride completion - almost 50% of users never completed their first ride after acceptance;
 	- signing up - 25% of users which downloaded the app never signed up;
-	- ride request - almost 30% of users which signed up never made a ride request.
+	- ride request - almost 30% of users which signed up never made a ride request;
+	- ride completion - almost 50% of users never completed their first ride after acceptance.
 <img width="645" height="305" alt="image" src="https://github.com/user-attachments/assets/bdf6817c-fca9-4251-b558-153883d1fb06" />
 
 
