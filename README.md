@@ -51,6 +51,8 @@ Out of 385k requested rides:
 - 162k rides (42%) were cancelled, including 137k (36%) not_accepted/cancelled and 25k (6%) accepted/cancelled.
 <img width="575" height="243" alt="image" src="https://github.com/user-attachments/assets/b1234f3f-15f4-46fc-907c-af578aa1e355" />
 
+<img width="572" height="255" alt="image" src="https://github.com/user-attachments/assets/7d47e25f-7700-493f-9afe-b9ffbf502a7c" />
+
 25k of accepted/cancelled rides resulted in approximately 6k users not transferred from ‘ride accepted’ to ‘ride completed’ step of the funnel (see User Funnel). These users were lost after first cancellation after acceptance.
 Additional analysis needed with respect to who initiated cancellations: drivers or users, if such information is available.
 
