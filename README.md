@@ -4,7 +4,7 @@ Power BI | SQL | Google sheets
 ## Metrocar performance analysis
 
 ### Project Background
-Metrocar is a ride-hailing platform (similar to Uber/Bolt), which allows users to download an app, register, request a ride, complete the trip, make payment, and leave a review.
+Metrocar is a ride-hailing platform, which allows users to download an app, register, request a ride, complete the trip, make payment, and leave a review.
 
 Objective of Management: To explore why a significant number of users do not complete their first trip, optimize user experience, and improve conversion rates at every stage of the process.
 
