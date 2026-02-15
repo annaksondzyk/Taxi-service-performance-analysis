@@ -34,7 +34,7 @@ Links
 	- signing up - 25% of users which downloaded the app never signed up;
 	- ride request - almost 30% of users which signed up never made a ride request;
 	- ride completion - almost 50% of users never completed their first accepted ride.
-<img width="470" height="279" alt="image" src="https://github.com/user-attachments/assets/6790ffce-b989-4700-ae53-072c3e64273c" />
+<img width="664" height="310" alt="image" src="https://github.com/user-attachments/assets/ee12ab5e-b0bb-47b1-b6bd-2e3a69e21097" />
  
 #### Rides Funnel
 ##### Observations:
